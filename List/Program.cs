@@ -17,8 +17,9 @@ namespace List
             stack.Push(4);
          
             foreach (var item in stack) Console.WriteLine(item);
-            
-            
+
+            Console.WriteLine(stack.Count);
+            Console.WriteLine(stack.Head);
            
 
             
