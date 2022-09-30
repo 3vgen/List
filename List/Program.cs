@@ -20,10 +20,10 @@ namespace List
 
             Console.WriteLine(stack.Count);
             Console.WriteLine(stack.Head);
-           
 
-            
-            
+
+
+            foreach (var itme in stack) Console.WriteLine(itme.ToString());
             
             
            
