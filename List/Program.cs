@@ -24,8 +24,9 @@ namespace List
 
 
             foreach (var itme in stack) Console.WriteLine(itme.ToString());
-            
-            
+
+            Console.WriteLine("djsabdb");
+            Console.WriteLine("dkjajdsado");
            
         }
     }
